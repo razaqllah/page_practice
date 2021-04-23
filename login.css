@@ -1,0 +1,66 @@
+*{
+      box-sizing: border-box;
+}
+ body{ 
+       margin: 0%;
+       padding: 0%;
+       background-color:#e8ebe8 ;
+       
+ }
+ .container{
+       max-width: 100%;
+       margin: 0px;
+       font-family: 'Noto Sans HK', sans-serif;
+
+ }
+
+ 
+ .container .hd_content{
+       position: relative;
+       font-size: x-large;
+       color:rgb(6, 82, 92) ;
+       text-align: center;
+       font-family: 'Acme', sans-serif;
+       text-transform: uppercase; 
+       padding: 5px 0;
+       margin: 10px;
+       border-right: 5px double rgb(6, 82, 92) ;
+      
+ }
+
+ .login_page{
+       position: relative;
+       text-align: center;
+    
+ }
+ .login_page form{
+       margin: 20px;
+       padding: 10px;
+       width: 40PX;
+ }
+
+ button{
+      position: relative;
+      width: 400px;
+      margin: 0 auto;
+      padding: 5px;
+      border-radius: 8px;
+      color: #e8ebe8;
+}
+.btn{
+      text-align: center;
+}
+.f_content{
+      text-align: center;
+      color:  #e8ebe8;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+}
+input{ 
+      max-width: 40%;
+      padding: 10px;
+      border-radius: 10px;
+      text-align: start;
+      font-size: larger;
+      margin-bottom: 5px;
+      border: none;
+} 
